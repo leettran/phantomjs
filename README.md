@@ -1,2 +1,0 @@
-# phantomjs
-mirror of phantomjs
